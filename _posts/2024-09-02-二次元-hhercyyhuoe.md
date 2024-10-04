@@ -22,5 +22,5 @@ pinyin: hhercyyhuoe, ghertshyyoe
 
 | 拼音方案 | 拼音 |             
 | :---: | :---: |                 
-| 钱拼 | hhercyyhuoe |                 
-| 学堂式 | ghertshyyoe |                 
+| 钱乃荣 | hhercyyhuoe |                 
+| 吴语学堂 | ghertshyyoe |                 
